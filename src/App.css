@@ -288,3 +288,20 @@
     opacity: 1;
     right: 0;
   }
+  .myName{
+    color: aliceblue;
+  }
+
+  a:link {color: lightblue;}  
+  a:visited {color: #060235}  
+  a:hover {color: #FCFC0C}  
+  a:active {color: #C0F0FC}  
+
+  .error{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: black;
+  }
+
+  .test{
+    color: whitesmoke;
+  }
